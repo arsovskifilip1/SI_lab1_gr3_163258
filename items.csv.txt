@@ -1,5 +1,7 @@
 1,banani,100
 2,seker,50
 3,leb,20
-4,jajca,80
+4,jajca,70
 5,burek,50
+6,sol.50
+7,jogurt.50

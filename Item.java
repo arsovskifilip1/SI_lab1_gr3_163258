@@ -42,3 +42,17 @@ class Item {
 		return price/tax*15;
 	}
 }
+class Receipt extends Item{
+List <Item> items;	
+public void addItem(Item item) {
+	items++=item;
+} 
+public double fullPrice() {
+	double sum=0;
+	for(int i=0;i<items.length;i++) {
+		sum+=items[i].getPrice();
+	}
+	return sum;
+}
+
+}
