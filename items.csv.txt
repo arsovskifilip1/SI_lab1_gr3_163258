@@ -1,0 +1,5 @@
+1,banani,100
+2,seker,50
+3,leb,20
+4,jajca,80
+5,burek,50
