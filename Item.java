@@ -3,7 +3,7 @@ class Item {
 	String name;
 	double price;
 
-	//TODO add variable.
+	char tax;
 
 	//TODO constructor
 
